@@ -19,12 +19,12 @@
 
 <script>
 const questions = [
-    "What motivates you the most?",
-    "If you could travel anywhere, where would you go?",
-    "What is your biggest dream?",
-    "What skill would you love to master?",
-    "Who inspires you the most?",
-    "What is one thing you're proud of?"
+    " How will Jesus, Come in the Second Comming?",
+    " What is the New Heaven and New Earth and Where are you?",
+    "What what is the a Dog in the Bible?",
+    "What is the Purpose of the Life of Faith?",
+    "Why did the believers kill Jesus in the Secound Coming?",
+    "What is the Meaning 666 in the Bible?"
 ];
 
 function newQuestion() {
