@@ -12,7 +12,7 @@
 <div class="container text-center">
     <div class="card shadow-lg p-4 bg-light text-dark">
         <h3 class="mb-4">🤔 Your Question Is:</h3>
-        <h4 id="question"></h4>
+        <h2 id="question"></h2>
        
     </div>
 </div>
