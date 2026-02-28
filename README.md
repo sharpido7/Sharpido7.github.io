@@ -1,7 +1,4 @@
-# Sharpido7.github.io
-The Page will show the questions each time.
 </> HTML
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
