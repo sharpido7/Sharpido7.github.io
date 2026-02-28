@@ -1,4 +1,3 @@
-</> HTML
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -14,7 +13,7 @@
     <div class="card shadow-lg p-4 bg-light text-dark">
         <h3 class="mb-4">🤔 Your Question Is:</h3>
         <h4 id="question"></h4>
-        <button class="btn btn-primary mt-4" onclick="newQuestion()">New Question</button>
+       
     </div>
 </div>
 
