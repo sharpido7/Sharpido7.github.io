@@ -21,7 +21,7 @@
 const questions = [
     " How will Jesus, Come in the Second Comming?",
     " What is the New Heaven and New Earth and Where are you?",
-    "What what is the a Dog in the Bible?",
+    "What is the a Dog in the Bible?",
     "What is the Purpose of the Life of Faith?",
     "Why did the believers kill Jesus in the Secound Coming?",
     "What is the Meaning 666 in the Bible?"
