@@ -25,6 +25,7 @@ const questions = [
     "Kwa nini tumtafute Mungu? Taja Mstari wa Biblia"
     "Katika Mathayo 8:11-112 Imesemwa kwamba wengi watakuja kutoka mashariki na magharibi na kuchukua nafasi katika ufalme wa mbinguni na wahusika wa ufalme watatupwa nje katika giza, ambapo kutakuwa na kilio na kusaga meno,Wewe ni wa wapi?",
     "Mbingu ya kwanza na nchi ya kwanza zlikuwa zimepita na mbigu mpya na dunia mpya zikaumbwa( Ufu 21:1) Wewe ni wa wapi?",
+     
 
 ];
 
