@@ -19,10 +19,10 @@
 
 <script>
 const questions = [
-    " Mchezo wa komborela una pande mbili anayejificha na anayetafuta Ukihusianisha na Biblia Mhusika wa kujificha ni nani, Mhusika wa kutafuta ni nani katiya Mungu na Wanadamu?",
+    " Mchezo wa komborela una pande mbili anayejificha na anayetafuta Ukihusianisha na Biblia Mhusika wa kujificha ni nani, Mhusika wa kutafuta ni nani katiya Mungu na Wanadamu?",
     "Tunawezaje kumtafuta Mungu na kumuona?",
     "Tunathibitishaje kuwa Tunampenda Yesu?",
-    "Kwa nini tumtafute Mungu? Taja Mstari wa Biblia"
+    "Kwa nini tumtafute Mungu? Taja Mstari wa Biblia"
     "Katika Mathayo 8:11-112 Imesemwa kwamba wengi watakuja kutoka mashariki na magharibi na kuchukua nafasi katika ufalme wa mbinguni na wahusika wa ufalme watatupwa nje katika giza, ambapo kutakuwa na kilio na kusaga meno,Wewe ni wa wapi?",
     "Mbingu ya kwanza na nchi ya kwanza zlikuwa zimepita na mbigu mpya na dunia mpya zikaumbwa( Ufu 21:1) Wewe ni wa wapi?",
      
