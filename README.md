@@ -19,12 +19,13 @@
 
 <script>
 const questions = [
-    " How will Jesus, Come in the Second Comming?",
-    " What is the New Heaven and New Earth and Where are you?",
-    "What is the a Dog in the Bible?",
-    "What is the Purpose of the Life of Faith?",
-    "Why did the believers kill Jesus in the Secound Coming?",
-    "What is the Meaning 666 in the Bible?"
+    " Mchezo wa komborela una pande mbili anayejificha na anayetafuta Ukihusianisha na Biblia Mhusika wa kujificha ni nani, Mhusika wa kutafuta ni nani katiya Mungu na Wanadamu?",
+    "Tunawezaje kumtafuta Mungu na kumuona?",
+    "Tunathibitishaje kuwa Tunampenda Yesu?",
+    "Kwa nini tumtafute Mungu? Taja Mstari wa Biblia"
+    "Katika Mathayo 8:11-112 Imesemwa kwamba wengi watakuja kutoka mashariki na magharibi na kuchukua nafasi katika ufalme wa mbinguni na wahusika wa ufalme watatupwa nje katika giza, ambapo kutakuwa na kilio na kusaga meno,Wewe ni wa wapi?",
+    "Mbingu ya kwanza na nchi ya kwanza zlikuwa zimepita na mbigu mpya na dunia mpya zikaumbwa( Ufu 21:1) Wewe ni wa wapi?",
+
 ];
 
 function newQuestion() {
